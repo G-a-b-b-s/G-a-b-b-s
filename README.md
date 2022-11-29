@@ -1,7 +1,7 @@
 ### Hi there 👋
 Im currently learning Python, C and C++ languages. I study IT at the AGH University in Cracovia.
 
-Here is my website :  - feel free to enter!
+Here is my website : https://g-a-b-b-s.github.io/  - feel free to enter!
 
 <!--
 **G-a-b-b-s/G-a-b-b-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
