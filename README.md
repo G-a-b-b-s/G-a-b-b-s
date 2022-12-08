@@ -1,9 +1,9 @@
 ### Hi there 👋
 Im currently learning Python, C and C++ languages. I study IT at the AGH University in Cracovia.
 
-Here is my website : https://g-a-b-b-s.github.io/  - feel free to enter!
-And something based on website :
-My thoughts on the topic in repo (forked):https://github.com/G-a-b-b-s/Unlikely_Impossible.git
+Here is my website : https://g-a-b-b-s.github.io/  - feel free to enter! </br>
+And something based on website :https://paperswithcode.com/paper/event-knowledge-in-large-language-models-the#code </br>
+My thoughts on the topic in repo (forked):https://github.com/G-a-b-b-s/Unlikely_Impossible.git 
 <!--
 **G-a-b-b-s/G-a-b-b-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
